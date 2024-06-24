@@ -1,8 +1,7 @@
 <div align="center"> <h3 align="center"> <span style="font-family: Tahoma, sans-serif;"> Good day, my name is Artem! And you are welcome here 😜</span> </h3> </div>
 
 ***
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Goudy+Bookletter+1911&duration=2000&pause=500&color=000000&background=45FF8900&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=580&height=100&lines=%22Go+backend-developer%22.+Started+learning+Golang+at+the+end+of+2022+and;have+written+several+projects+since+then.+Love+good+code+and+want+to+;continue+to+grow+into+a+strong+technical+specialist+in+this+field.)](https://git.io/typing-svg)
+<span style="display:block;text-align:center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Goudy+Bookletter+1911&size=19&duration=2000&pause=500&color=000000&background=45FF8900&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=580&height=85&lines=I'm+%22Go+backend-developer%22.+Started+learning+Golang+at+the+end+of+2022+and;have+written+several+projects+since+then.+Love+good+code+and+want+to+;continue+to+grow+into+a+strong+technical+specialist+in+this+field.)](https://git.io/typing-svg) </span>
 
 ***
 <div align="center"> <h4 align="center"> <span style="font-family: Tahoma, sans-serif;">Technology stack:</span> </h4> </div>
