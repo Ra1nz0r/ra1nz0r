@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Goudy+Bookletter+1911&size=19&duration=2000&pause=500&color=167DFF&background=45FF8900&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=580&height=38&lines=(%E3%81%A3%E2%97%94%E2%97%A1%E2%97%94)%E3%81%A3+Good+day%2C+my+name+is+Artem!+And+you+are+welcome+here.)](https://git.io/typing-svg)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoSize=auto&logoColor=white)](https://t.me/Rainz0r) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoSize=auto&logoColor=white)](mailto:n52rus@gmail.com) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoSize=auto&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoSize=auto&logoColor=white)](https://t.me/Rainz0r) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoSize=auto&logoColor=white)](mailto:n52rus@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoSize=auto&logoColor=white)](www.linkedin.com/in/artem-rylskii)
 
 ***
 
