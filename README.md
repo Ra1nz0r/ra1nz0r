@@ -6,7 +6,24 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Goudy+Bookletter+1911&size=19&duration=2000&pause=500&color=167DFF&background=45FF8900&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=580&height=85&lines=I'm+%22Go+backend-developer%22.+Started+learning+Golang+at+the+end+of+2022+and;have+written+several+projects+since+then.+Love+good+code+and+want+to+;continue+to+grow+into+a+strong+technical+specialist+in+this+field.)](https://git.io/typing-svg)
+<h3 align="center">Go Backend Developer</h3>
+
+<p align="center">
+  Backend services · REST API · PostgreSQL · gRPC · Integrations · Production support
+</p>
+
+<p align="center">
+  Commercial Go development since 12.2024 is kept in private GitLab repositories.<br>
+  Public GitHub contains pet, test and educational projects.
+</p>
+
+<p align="center">
+  <b>Focus:</b> backend services, API integrations, SQL, diagnostics, clean project structure and production-oriented development.
+</p>
+
+<p align="center">
+  Also interested in microservices, Kafka, Redis, distributed systems and service reliability.
+</p>
 
 ---
 
