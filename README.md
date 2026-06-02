@@ -22,18 +22,19 @@
 </p>
 
 <p align="center">
-  Also interested in microservices, Kafka, Redis, distributed systems and service reliability.
+  Development areas: microservices, Kafka, Redis, distributed systems and service reliability.
 </p>
 
 ---
 
-<h3 align="center"> <span style="font-family: Tahoma, sans-serif;">Technology stack:</span> </h3>
+<h3 align="center">Technology stack:</h3>
 
-![Go](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoSize=auto&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoSize=auto&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoSize=auto&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoSize=auto&logoColor=white) ![Static Badge](https://img.shields.io/badge/REST%20api-purple?style=for-the-badge) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Static Badge](https://img.shields.io/badge/CI%2FCD-green?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoSize=auto&) ![Static Badge](https://img.shields.io/badge/JSON-grey?style=for-the-badge&logo=json&logoSize=auto)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&logoSize=auto) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoSize=auto&logoColor=151515) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoSize=auto&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoSize=auto&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-C3362B?style=for-the-badge) ![REST API](https://img.shields.io/badge/REST%20API-6F42C1?style=for-the-badge) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge) ![Microservices](https://img.shields.io/badge/Microservices-2E3440?style=for-the-badge)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=173647) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ra1nz0r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
