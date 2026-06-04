@@ -40,8 +40,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Ra1nz0r/cv">
-    <img src="https://img.shields.io/badge/CV%20%2F%20Resume-Open%20repository-167DFF?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://ra1nz0r.github.io/cv/">
+    <img src="https://img.shields.io/badge/CV%20%2F%20Resume-Open%20landing%20page-167DFF?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
